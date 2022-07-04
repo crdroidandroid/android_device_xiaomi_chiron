@@ -20,7 +20,7 @@ include device/xiaomi/msm8998-common/BoardConfigCommon.mk
 DEVICE_PATH := device/xiaomi/chiron
 
 # Kernel
-TARGET_KERNEL_CONFIG := chiron_defconfig
+TARGET_KERNEL_CONFIG += vendor/xiaomi/chiron.config
 
 # Assert
 TARGET_OTA_ASSERT_DEVICE := chiron
