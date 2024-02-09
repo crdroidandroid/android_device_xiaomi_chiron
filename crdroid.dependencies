@@ -1,0 +1,27 @@
+[
+  {
+    "repository": "crdroidandroid/android_device_xiaomi_msm8998-common",
+    "target_path": "device/xiaomi/msm8998-common",
+    "branch": "14.0-Nanhumly"
+  },
+  {
+    "repository": "crdroidandroid/android_kernel_xiaomi_msm8998",
+    "target_path": "kernel/xiaomi/msm8998",
+    "branch": "14.0-Nanhumly"
+  },
+  {
+    "repository": "LineageOS/android_hardware_xiaomi",
+    "target_path": "hardware/xiaomi",
+    "branch": "lineage-21"
+  },
+  {
+    "repository": "TheMuppets/proprietary_vendor_xiaomi_chiron",
+    "target_path": "vendor/xiaomi/chiron",
+    "branch": "lineage-20"
+  },
+  {
+    "repository": "Nanhumly-Staging/proprietary_vendor_xiaomi_msm8998-common",
+    "target_path": "vendor/xiaomi/msm8998-common",
+    "branch": "lineage-21.0"
+  }
+]
