@@ -1,0 +1,12 @@
+[
+  {
+    "repository": "crdroidandroid/android_device_xiaomi_msm8998-common",
+    "target_path": "device/xiaomi/msm8998-common"
+  },
+  {
+    "Remote": "github",
+    "repository": "xiaomi-msm8998-devs/proprietary_vendor_xiaomi_chiron",
+    "target_path": "vendor/xiaomi/chiron",
+    "branch": "lineage-23.2"
+  }
+]
